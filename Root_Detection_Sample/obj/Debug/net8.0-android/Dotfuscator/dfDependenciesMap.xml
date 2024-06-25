@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependency-mappings>
+  <entry>
+    <new>C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Dotfuscator\dfout\Root_Detection_Sample.dll</new>
+    <old>C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Root_Detection_Sample.dll</old>
+  </entry>
+  <entry>
+    <new>C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Dotfuscator\dfout\Root_Detection_Sample.pdb</new>
+    <old>C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Root_Detection_Sample.pdb</old>
+  </entry>
+</dependency-mappings>

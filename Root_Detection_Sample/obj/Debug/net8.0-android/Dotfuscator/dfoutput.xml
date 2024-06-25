@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Output>
+  <OutputAssemblies>
+    <File>C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Dotfuscator\dfout\Root_Detection_Sample.dll</File>
+  </OutputAssemblies>
+  <SatelliteAssemblies />
+  <DebugSymbols>
+    <File>C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Dotfuscator\dfout\Root_Detection_Sample.pdb</File>
+  </DebugSymbols>
+  <MappingFile>C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample/Dotfuscated/Map.xml</MappingFile>
+  <ReportFiles />
+  <MarkupFiles />
+  <OutputAssembliesInternal>
+    <File NewPath="C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Dotfuscator\dfout\Root_Detection_Sample.dll" OldPath="C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Root_Detection_Sample.dll" />
+  </OutputAssembliesInternal>
+  <Pdbs>
+    <File NewPath="C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Dotfuscator\dfout\Root_Detection_Sample.pdb" OldPath="C:\Users\PMR\source\repos\Root_Detection_Sample\Root_Detection_Sample\obj\Debug\net8.0-android\Root_Detection_Sample.pdb" />
+  </Pdbs>
+</Output>
